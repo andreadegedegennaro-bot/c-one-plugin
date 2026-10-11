@@ -1,0 +1,13 @@
+{
+  "name": "c-one",
+  "description": "Il plugin c-one per la tua azienda",
+  "owner": { "name": "c-one" },
+  "plugins": [
+    {
+      "name": "c-one",
+      "source": "./plugins/c-one",
+      "version": "0.2.0",
+      "description": "Il consulente c-one dentro Claude: Oggi, settimana, mestiere, registrazioni, turni, configurazione."
+    }
+  ]
+}

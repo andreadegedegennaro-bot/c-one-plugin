@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "c-one": {
+      "type": "http",
+      "url": "https://c-one-mcp-prova.andreadege-degennaro.workers.dev/mcp"
+    }
+  }
+}
