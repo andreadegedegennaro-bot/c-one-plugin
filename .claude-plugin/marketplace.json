@@ -6,7 +6,7 @@
     {
       "name": "c-one",
       "source": "./plugins/c-one",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "Il consulente c-one dentro Claude: Oggi, settimana, mestiere, registrazioni, turni, configurazione."
     }
   ]
